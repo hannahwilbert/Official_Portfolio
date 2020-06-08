@@ -661,8 +661,14 @@ footer{
     .vtimeline-content{
         margin-left:70px
     }
+    #lead-content h1{
+        font-size:1.5em
+    }
+    #lead-content h2{
+        font-size:1em
+    }
 }
-@media only screen and (max-width: 992px){
+@media only screen and (max-width: 100000px){
     #lead{
         height:auto;
         min-height:auto;
@@ -676,10 +682,10 @@ footer{
         top:auto
     }
     #lead-content h1{
-        font-size:3em
+        font-size:2.5em
     }
     #lead-content h2{
-        font-size:1.75em
+        font-size:2em
     }
     #about{
         text-align:center
@@ -716,11 +722,11 @@ footer{
     #lead-content h1{
         font-size:2em
     }
-    #lead-content h2{
-        font-size:1.3em
+    #lead-content h1{
+        font-size:1.5em
     }
-    #lead-content a{
-        padding:10px 20px
+    #lead-content h2{
+        font-size:1em
     }
     #lead-down{
         display:none
