@@ -15,7 +15,6 @@
     "dev"
   ],
   "author": "Hannah Wilbert",
-
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^6.1.0",
@@ -23,7 +22,7 @@
     "gulp-rename": "^1.4.0",
     "gulp-sass": "^4.1.0",
     "gulp-uglify": "^3.0.2",
+    "gulp-util": "^3.0.8",
     "gulp-wait": "0.0.2"
   }
-  
 }
